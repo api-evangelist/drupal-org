@@ -1,0 +1,32 @@
+aid: drupal-org
+name: Drupal.org
+description: "Drupal.org"
+url: https://www.drupal.org/drupalorg/docs/api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Source Projects"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Source Projects
+  - Public APIs
+apis:
+  - name: Drupal.org
+    description: "Drupal.org"
+    humanURL: https://www.drupal.org/drupalorg/docs/api
+    baseURL: https://www.drupal.org/drupalorg/docs/api
+    tags:
+      - Open Source Projects
+    properties:
+      - type: Documentation
+        url: https://www.drupal.org/drupalorg/docs/api
+common:
+  - type: Website
+    url: https://www.drupal.org/drupalorg/docs/api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
