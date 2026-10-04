@@ -39,7 +39,6 @@ apis:
   - name: Drupal.org
     description: "Drupal.org"
     humanURL: https://www.drupal.org/drupalorg/docs/api
-    baseURL: https://www.drupal.org/drupalorg/docs/api
     tags:
       - Open Source Projects
     properties:
