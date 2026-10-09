@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: www.drupal.org
   final_host: new.drupal.org
-  ownership: inherited
+  ownership: own
   owner: drupal-org
   shares_host_with: null
-  inherited_from: drupal.org
+  inherited_from: null
+  alias_of: drupal.org
   verdict: scored
-  score: null
+  score: 11
+  band: 5
+  band_label: prominent
   host_score: 11
-  density: null
+  density: 7.69
   words: 1430
   tiers:
     agentic: 0
